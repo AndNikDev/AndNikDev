@@ -5,20 +5,20 @@
 
 ## 🚀 About Me
 As a **frontend developer**, my experience spans more than a year, where I started developing web pages on my own. I like design but I have always been interested in information, databases and the world that may lie behind all this, which is why in recent months I have focused on the study of Data Engineering using Python. <br><br>
-Being a technology lover, I always seek to be updated with the latest news, technologies and their evolution, trying to evolve with them and improve in this vast world.
+Being a technology lover, I always seek to be updated with the latest news, technologies and their evolution, trying to evolve with them and improve in this vast world. I want to contribute my grain of sand in the development of technologies and improve people's lives.
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,react,mongo,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongo,mysql,git)](https://skillicons.dev)
 
-## Learning
+## 📚 In Process
 
- [![My Skills](https://skillicons.dev/icons?i=python,docker,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,docker,ionic)](https://skillicons.dev)
 
-
+<!--
 ## 📈 Analythics
 <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AndNikDev&show_icons=true&theme=midnight-purple&locale=en&layout=compact" alt="AndNikDev"/>
 
 <br>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple)](https://github.com/AndNikDev/AndNikDev)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple)](https://github.com/AndNikDev)
 
