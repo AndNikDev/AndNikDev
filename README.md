@@ -7,7 +7,7 @@ As a **frontend developer**, my experience spans more than a year, where I start
 Being a technology lover, I always seek to be updated with the latest news, technologies and their evolution, trying to evolve with them and improve in this vast world. _I want to contribute my grain of sand in the development of technologies and improve people's lives._
 
 ## 🛠️ My Skills
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,react,mongo,mysql,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongo,mysql,git,java,linux,github,bash)](https://skillicons.dev)
 
 ## 📚 In Process
  [![My Skills](https://skillicons.dev/icons?i=python,docker,go,)](https://skillicons.dev)
