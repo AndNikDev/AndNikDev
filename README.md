@@ -15,6 +15,6 @@ Being a technology lover, I always seek to be updated with the latest news, tech
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📈 Analythics
-<img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs?username=AndNikDev&show_icons=true&theme=midnight-purple&locale=en" alt="AndNikDev"/><br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10)](https://github.com/AndNikDev)<br>
 
 [![Nikolayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple)](https://github.com/AndNikDev)
