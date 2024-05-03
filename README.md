@@ -10,11 +10,11 @@ Being a technology lover, I always seek to be updated with the latest news, tech
 [![My Skills](https://skillicons.dev/icons?i=html,css,js,nodejs,react,mongo,mysql,git,java,linux,github,bash)](https://skillicons.dev)
 
 ## 📚 In Process
- [![My Skills](https://skillicons.dev/icons?i=python,docker,go,)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=python,docker,go,ts)](https://skillicons.dev)
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
 
 ## 📈 Analythics
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10)](https://github.com/AndNikDev)<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css)](https://github.com/AndNikDev)<br>
 
-[![Nikolayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple)](https://github.com/AndNikDev)
+[![Nikolayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE)](https://github.com/AndNikDev)
