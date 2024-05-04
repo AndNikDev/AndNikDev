@@ -24,11 +24,10 @@ Being a technology lover, I always seek to be updated with the latest news, tech
   </div>
   <div class="column">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css" alt=AndNikDev/>
-
   </div>
 </div>
 
-<style>
+<style class="stylees">
   .columns {
     display: flex;
     flex-wrap: wrap;
@@ -38,6 +37,9 @@ Being a technology lover, I always seek to be updated with the latest news, tech
   .column {
     flex-basis: calc(50% - 10px);
     margin-bottom: 20px;
+  }
+  .stylees{
+    display:none;
   }
 
   @media (max-width: 600px) {
