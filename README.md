@@ -1,6 +1,6 @@
 > [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=4000&pause=1000&color=853DD8&vCenter=true&random=false&width=435&lines=Hey+there%2C+I'm+Nikolayk!+%F0%9F%A4%98%F0%9F%8F%BC;Hey+there%2C+I'm+developer!+%F0%9F%96%A5%EF%B8%8F)](https://git.io/typing-svg)
 
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaykmunozalvarez/)    [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=purple)](https://andnik.dev)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaykmunozalvarez/)    [![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=purple)](https://andnik.tech)
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 ## 🚀 About Me
