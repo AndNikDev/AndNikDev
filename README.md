@@ -17,42 +17,7 @@ Being a technology lover, I always seek to be updated with the latest news, tech
  [![My Skills](https://skillicons.dev/icons?i=python,docker,go,ts)](https://skillicons.dev)
 
 ## 📈 Analythics
-<div class="columns">
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE" alt=AndNikDev/>
-
-  </div>
-  <div class="column">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css" alt=AndNikDev/>
-  </div>
-</div>
-
-<style class="stylees">
-  .columns {
-    display: flex;
-    flex-wrap: wrap;
-    justify-content: space-between;
-  }
-  
-  .column {
-    flex-basis: calc(50% - 10px);
-    margin-bottom: 20px;
-  }
-  .stylees{
-    display:none;
-  }
-
-  @media (max-width: 600px) {
-    .column {
-      flex-basis: 100%;
-    }
-  }
-</style>
-
-<!--
 
 |||
 |--|--|
-|[![Nikolayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE)](https://github.com/AndNikDev)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css)](https://github.com/AndNikDev)| 
-
--->
+|[![Nikolayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE)](https://github.com/AndNikDev)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css)](https://github.com/AndNikDev)|
