@@ -17,7 +17,8 @@ Being a technology lover, I always seek to be updated with the latest news, tech
  [![My Skills](https://skillicons.dev/icons?i=python,docker,go,ts)](https://skillicons.dev)
 
 ## 📈 Analythics
-
-
+<div class="stats" style="display:flex; justify-content: center; align-items: center;">
 
 [![Nikolayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE&card_width=390px)](https://github.com/AndNikDev) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css&card_width=390px)](https://github.com/AndNikDev)
+
+</div>
