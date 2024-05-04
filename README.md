@@ -21,3 +21,14 @@ Being a technology lover, I always seek to be updated with the latest news, tech
 |Profile Stats| Top Languages|
 |--|--|
 |[![Nikolayk's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE)](https://github.com/AndNikDev)|[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css)](https://github.com/AndNikDev)|
+
+|Profile Stats| Top Languages|
+|--|--|
+|<img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=AndNikDev&theme=midnight-purple&show_icons=true&count_private=true&include_all_commits=true&hide_border=TRUE" style="width: 50wv;">|<img alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndNikDev&langs_count=10&theme=midnight-purple&layout=compact&hide_border=true&hide=css" style="width: 50hv;">|
+
+<div>
+  
+</div>
+<div>
+  
+</div>
