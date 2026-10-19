@@ -1,7 +1,7 @@
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3500&pause=1000&color=853DD8&center=true&vCenter=true&width=520&lines=Hi+there%2C+I'm+Nikolayk!+%F0%9F%91%8B;Software+Developer+%F0%9F%92%BB;AI-Augmented+Engineer+%F0%9F%A4%96;Data+Analytics+%26+Engineering+%F0%9F%93%8A;Open-Source+Enthusiast+%E2%9D%A4%EF%B8%8F)](https://github.com/AndNikDev)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaykmunozalvarez/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andnik.developer@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-853DD8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://andnik.dev)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nikolaykmunozalvarez/) [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andnik.developer@gmail.com) [![Portfolio](https://img.shields.io/badge/Portfolio-853DD8?style=for-the-badge&logo=ko-fi&logoColor=white)](https://www.andnik.dev/)
 
 </div>
 
